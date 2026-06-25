@@ -2,10 +2,6 @@
 
 Desenvolvi este sistema para a disciplina de Programação Orientada a Objetos. Ele permite criar, listar, alterar status e excluir tarefas.
 
-## Como executar
-- Salve o arquivo `tarefas.py`
-- Execute com `python tarefas.py`
-
 ## Estrutura
 - Classe `Tarefa`: armazena título, descrição, status e data de criação.
 - Classe `Gerenciador`: mantém uma lista de tarefas e oferece os métodos para CRUD.
