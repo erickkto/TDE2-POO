@@ -8,6 +8,7 @@ Desenvolvi este sistema para a disciplina de Programação Orientada a Objetos. 
 
 ## Exemplo de uso
 
+```
 === MENU ===
 1 - Adicionar tarefa
 2 - Listar todas
@@ -34,3 +35,5 @@ Saindo...
 
 ## Repositório
 [Link para o GitHub](https://github.com/erickkto/TDE2-POO)
+
+```
